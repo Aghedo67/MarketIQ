@@ -1,0 +1,5 @@
+room_type,elasticity,r2,n_listings
+Private room,-0.134,0.003,16903
+Entire home/apt,-0.123,0.003,37250
+Shared room,0.553,0.061,126
+Hotel room,0.802,0.158,113
